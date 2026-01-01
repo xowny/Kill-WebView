@@ -1,14 +1,15 @@
-Kill WebView ⚔️
-
-    "Revenge is a dish best served with free RAM."
-
+<div align="center">
 Kill WebView is a lightweight script designed to temporarily suppress and block msedgewebview2.exe processes on Windows.
 
-🛑 The Problem
 
-You kill msedgewebview2.exe via Task Manager to save memory, but it resurrects immediately because of Windows "Watchdog" services (Widgets, Search, Teams, Discord).
+![killwebview](https://github.com/user-attachments/assets/bac7aebc-d0ba-45c4-a084-dd204f812e15)
 
-🗡️ The Solution
+
+ The Problem:
+
+You kill msedgewebview2.exe via Task Manager to save memory, but it resurrects immediately because of Windows "Watchdog" services (Widgets, Search, Teams, etc).
+
+ The Solution:
 
 This script doesn't just kill the process; it temporarily hijacks the execution intent.
 
@@ -22,7 +23,7 @@ How it works:
 
     Unblock Mode: It removes the registry key, instantly restoring normal functionality for apps like Discord, Steam, or Weather.
 
-🚀 How to Use
+ How to Use:
 
     Download Kill WebView.bat
 
@@ -33,3 +34,4 @@ How it works:
         [1] BLOCK: Kills active instances and prevents them from starting.
 
         [2] UNBLOCK: Allows WebView2 to run normally again.
+</div>
