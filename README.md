@@ -24,7 +24,7 @@ How it works:
 
 🚀 How to Use
 
-    Download Kill WebView.bat (or copy the code below).
+    Download Kill WebView.bat
 
     Double-click the file.
 
