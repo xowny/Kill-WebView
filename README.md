@@ -1,4 +1,5 @@
 <div align="center">
+<p><a href="./LICENSE"><img alt="License: MIT" src="https://img.shields.io/badge/License-MIT-yellow.svg" /></a></p>
 Kill WebView is a lightweight script designed to temporarily suppress and block msedgewebview2.exe processes on Windows.
 
 
